@@ -1,0 +1,7 @@
+c:\users\nycea\Downloads\remote-wiring-develop\remote-wiring-develop\Microsoft.Maker.win10\Microsoft.Maker.Firmata\Microsoft.Maker.Firmata.vcxproj;x86
+c:\users\nycea\Downloads\remote-wiring-develop\remote-wiring-develop\Microsoft.Maker.win10\Microsoft.Maker.Firmata\Microsoft.Maker.Firmata.vcxproj;x86
+c:\users\nycea\Downloads\remote-wiring-develop\remote-wiring-develop\Microsoft.Maker.win10\Microsoft.Maker.RemoteWiring\Microsoft.Maker.RemoteWiring.vcxproj;x86
+c:\users\nycea\Downloads\serial-wiring-c0878f7c0e4fe240b7e8f0e34375420ef32f7b3e\serial-wiring-c0878f7c0e4fe240b7e8f0e34375420ef32f7b3e\Microsoft.Maker.Serial.win10\Microsoft.Maker.Serial.vcxproj;x86
+c:\users\nycea\Downloads\serial-wiring-c0878f7c0e4fe240b7e8f0e34375420ef32f7b3e\serial-wiring-c0878f7c0e4fe240b7e8f0e34375420ef32f7b3e\Microsoft.Maker.Serial.win10\Microsoft.Maker.Serial.vcxproj;x86
+c:\users\nycea\Downloads\serial-wiring-c0878f7c0e4fe240b7e8f0e34375420ef32f7b3e\serial-wiring-c0878f7c0e4fe240b7e8f0e34375420ef32f7b3e\Microsoft.Maker.Serial.win10\Microsoft.Maker.Serial.vcxproj;x86
+c:\users\nycea\onedrive\documents\visual studio 2015\Projects\Grindbit\Grindbit\Grindbit.csproj;x86

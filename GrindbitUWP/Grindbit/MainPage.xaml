@@ -1,0 +1,28 @@
+﻿<Page
+    x:Class="Grindbit.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Grindbit"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    Background="SlateGray"
+    mc:Ignorable="d">
+    
+    <Grid>
+        <Grid.Background>
+            <ImageBrush Stretch="None" ImageSource="Assets/background.png" AlignmentY="Top" AlignmentX="Center"/>
+        </Grid.Background>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="400"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <TextBlock Name="WelcomeMessage" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="0" FontSize="20" Text="Welcome to Grindbit!"/>
+        <Canvas Background="Transparent" HorizontalAlignment="Center" VerticalAlignment="Top" Grid.Row="1" Width="620">
+            <Image Name="grindLeft" Stretch="None" Canvas.Top="25" Canvas.Left="0" Source="Assets/grind_left.png" Visibility="Collapsed"/>
+            <TextBlock Name="messageLeft" Canvas.Top="0" Canvas.Left="0"  FontSize="24" Foreground="White" FontWeight="Bold" Text="0" Margin="50" Visibility="Collapsed"/>
+            <Image Name="grindRight" Stretch="None" Canvas.Top="25" Canvas.Left="490" Source="Assets/grind_right.png" Visibility="Collapsed"/>
+            <TextBlock Name="messageRight" Canvas.Top="0" Canvas.Left="490"  FontSize="24" Foreground="White" FontWeight="Bold" Text="0" Margin="50" Visibility="Collapsed"/>
+
+        </Canvas>
+    </Grid>
+</Page>
